@@ -35,7 +35,7 @@ The notebook in this repository is divided into two main sections:
 To run the notebook locally, follow these steps:
 
 Clone the Repository
-!git clone https://github.com/elprofessor-15/Network_pruning_Fine-Grained_and_Channel_Pruning.git
+!git clone https://github.com/anshh-git/Network_Pruning_Channel_and_Fine_Grained.git
 Install Dependencies
 
 You can install the required libraries using the following command:
